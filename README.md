@@ -30,6 +30,13 @@ Overall, web application development encompasses a range of activities aimed at 
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/java.md">Java FullStack Development</a>
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/python.md">Python FullStack Development</a>
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/go.md">GO FullStack Development</a>
+
+## Essential Web Technology Terms
+
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/webserver.md">Web Server</a>
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/browser.md">WebBrowser</a>
-
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/webserver.md">HTML</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/browser.md">CSS</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/js.md">Javascript</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/jquery.md">jQuery</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/bootstrap.md">Bootstrap</a>
