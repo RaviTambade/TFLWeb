@@ -40,3 +40,33 @@ Overall, web application development encompasses a range of activities aimed at 
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/js.md">Javascript</a>
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/jquery.md">jQuery</a>
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/bootstrap.md">Bootstrap</a>
+
+## Essential JavaScript Programming to get started
+
+
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/syntax.md">Basic Javascript syntax</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/datatypes.md">Data Types</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/variableconst.md">Variable and Constants</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/functions.md">Functions</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/objects.md">Objects</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/controlflow.md">Control Flow</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/syntax.md">Web Server</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/syntax.md">Web Server</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/syntax.md">Web Server</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/syntax.md">Web Server</a>
+- <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/syntax.md">Web Server</a>
+
+1. **Syntax**: JavaScript syntax is similar to other programming languages like C and Java, making it relatively easy to learn. Statements are terminated by semicolons (;), and variables are declared using the `var`, `let`, or `const` keywords.
+
+2. **Data Types**:
+3. **Variables and Constants**: 
+4. **Functions**:
+5. **Objects**:
+6. **Arrays**: 
+7. **Control Flow**:
+8. **DOM Manipulation**: 
+9. **Asynchronous Programming**:
+10. **Error Handling**: 
+11. **Modules and Imports**: 
+12. **Browser APIs**: 
+13. **JSON**: 
