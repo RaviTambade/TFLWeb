@@ -41,7 +41,7 @@ Overall, web application development encompasses a range of activities aimed at 
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/jquery.md">jQuery</a>
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/bootstrap.md">Bootstrap</a>
 
-## Essential JavaScript Programming to get started
+## Essential JavaScript Programming
 
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/syntax.md">Basic Javascript syntax</a>
 - <a href="https://github.com/RaviTambade/TFLNodeJS/blob/main/notes/javascript/datatypes.md">Data Types</a>
